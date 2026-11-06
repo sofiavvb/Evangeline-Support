@@ -44,7 +44,7 @@ Nosso coven inclui 2 vencedores do WWDC, 2 vencedoras de hackathon, 3 diferentes
       <sub>Game Designer</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/[usuario-do-uli]"><img src="equipe/uli.jpeg" width="100" alt="Foto de Ulisses"><br><b>Ulisses Guimarães</b></a><br>
+      <a href="https://github.com/ulisses-amaral23"><img src="equipe/uli.jpeg" width="100" alt="Foto de Ulisses"><br><b>Ulisses Guimarães</b></a><br>
       <sub>Game Designer</sub>
     </td>
     <td align="center" width="25%">
