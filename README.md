@@ -1,6 +1,12 @@
-# Evangeline is a Witch
+<p align="center">
+  <img src="icon.png" width="160" alt="Ícone do Evangeline is a Witch">
+</p>
 
-**Evangeline is a Witch** é um roguelite de ação em pixel art para Mac, cheio de combate, humor e feitiços.
+<h1 align="center">Evangeline is a Witch</h1>
+
+<p align="center">
+  Um roguelite de ação em pixel art para Mac, cheio de combate, humor e feitiços.
+</p>
 
 O mundo mágico está em perigo! Um magnata ganancioso está enlatando toda a magia da Academia das Bruxas e acabando com o equilíbrio do mundo. E a única pessoa disponível para impedir esse desastre é Evangeline: uma bruxa rebelde, desleixada e completamente incompetente.
 
